@@ -2,3 +2,6 @@ http://cache.baiducontent.com/c?m=9d78d513d99f1cb8589ccb235b5189310e54f13f6f8887
 
 
 http://blog.csdn.net/zhang_shuai12/article/details/52346878
+
+
+https://github.com/weiliu89/caffe/tree/ssd#installation
